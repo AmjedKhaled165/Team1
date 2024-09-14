@@ -34,11 +34,11 @@ Task 4: Test the module (1 day)
 Deployment: End of Sprint 2
 
 ------------------------------------------------------------------------------------------------------------------------------
-Sprint 3: UI/UX for Substitute Class Management System (15 days)
+Sprint 3: Web for Substitute Class Management System (15 days)
 Goal: Develop a system to manage substitute classes, notify teachers, and automate school bell ringing.
 
 Task 1: Develop a reminder system using "Time" and "SMS" libraries in Python (3 days)
-Task 2: Design and develop UI for the distribution of reserve lectures (10 days)
+Task 2: Design and develop Web for the distribution of reserve lectures (10 days)
 Task 3: Implement an alarm system for session and break times (2 days)
 Deployment: End of Sprint 3
 
