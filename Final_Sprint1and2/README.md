@@ -90,7 +90,7 @@ Students' names and statuses (Present/Absent) are fetched from the MySQL databas
 Admin login page for accessing the admin panel.
 Future Enhancements
 The following features can be added to extend the current system's functionalities:
-
+ 
 1. Parent Notifications
 Feature: Automatically notify parents via SMS or email about student attendance, schedule updates, and school announcements.
 Benefit: Keeps parents informed in real-time.
